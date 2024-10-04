@@ -14,3 +14,8 @@ Empresas de Internet crecieron rápidamente y se hicieron muy valiosas, pero la 
 
 
 ![com](https://github.com/NilOrtega/SMX2-M8UF1A1-HistoriaWeb-a-o-TemaExpuesto-NilOrtega-The-Dot-Com-Peak/blob/main/com.png)
+
+
+Links:
+
+[Link](https://www.youtube.com/watch?v=iUHMnVIvGI8/ "The dot com peak")
