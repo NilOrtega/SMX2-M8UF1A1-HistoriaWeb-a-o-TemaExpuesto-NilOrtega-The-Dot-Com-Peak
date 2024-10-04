@@ -18,4 +18,4 @@ Empresas de Internet crecieron rápidamente y se hicieron muy valiosas, pero la 
 
 Links:
 
-[Link](https://www.youtube.com/watch?v=iUHMnVIvGI8/ "The dot com peak")
+[Link video The dot com peak](https://www.youtube.com/watch?v=iUHMnVIvGI8/ "The dot com peak")
