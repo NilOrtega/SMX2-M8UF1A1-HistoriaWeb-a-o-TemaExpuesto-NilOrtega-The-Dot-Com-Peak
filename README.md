@@ -7,3 +7,10 @@
 
 ![dot](https://github.com/NilOrtega/SMX2-M8UF1A1-HistoriaWeb-a-o-TemaExpuesto-NilOrtega-The-Dot-Com-Peak/blob/main/dot.png)
 
+
+¿En que consistia?
+
+Empresas de Internet crecieron rápidamente y se hicieron muy valiosas, pero la mayoría no ganaban y en el 2000, la burbuja estalló, causando que muchas de estas empresas cerraran y los mercados cayeran.
+
+
+![com](https://github.com/NilOrtega/SMX2-M8UF1A1-HistoriaWeb-a-o-TemaExpuesto-NilOrtega-The-Dot-Com-Peak/blob/main/com.png)
